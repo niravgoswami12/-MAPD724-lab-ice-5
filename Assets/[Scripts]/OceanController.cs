@@ -5,7 +5,7 @@ using UnityEngine;
 public class OceanController : MonoBehaviour
 {
     public float verticalSpeed;
-    public Boundry boundary;
+    public Boundary boundary;
     
     // Update is called once per frame
     void FixedUpdate()
